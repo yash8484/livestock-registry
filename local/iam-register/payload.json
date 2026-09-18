@@ -635,7 +635,12 @@
         "intakeFormDefinition:view",
         "intakeSubmission:edit",
         "intakeSubmission:view",
-        "referenceData:view"
+        "referenceData:view",
+        "register:view",
+        "registerDefinition:view",
+        "registerSection:view",
+        "registerTab:view",
+        "registerHistory:view"
       ]
     },
     {
@@ -648,7 +653,12 @@
         "intakeSubmission:view",
         "verificationIntakeForm:create",
         "verificationIntakeForm:view",
-        "referenceData:view"
+        "referenceData:view",
+        "register:view",
+        "registerDefinition:view",
+        "registerSection:view",
+        "registerTab:view",
+        "registerHistory:view"
       ]
     },
     {
@@ -661,7 +671,12 @@
         "intakeSubmission:view",
         "verificationIntakeForm:create",
         "verificationIntakeForm:view",
-        "referenceData:view"
+        "referenceData:view",
+        "register:view",
+        "registerDefinition:view",
+        "registerSection:view",
+        "registerTab:view",
+        "registerHistory:view"
       ]
     },
     {
@@ -674,7 +689,12 @@
         "intakeSubmission:view",
         "verificationIntakeForm:create",
         "verificationIntakeForm:view",
-        "referenceData:view"
+        "referenceData:view",
+        "register:view",
+        "registerDefinition:view",
+        "registerSection:view",
+        "registerTab:view",
+        "registerHistory:view"
       ]
     },
     {
@@ -687,7 +707,12 @@
         "intakeSubmission:view",
         "verificationIntakeForm:create",
         "verificationIntakeForm:view",
-        "referenceData:view"
+        "referenceData:view",
+        "register:view",
+        "registerDefinition:view",
+        "registerSection:view",
+        "registerTab:view",
+        "registerHistory:view"
       ]
     }
   ]
